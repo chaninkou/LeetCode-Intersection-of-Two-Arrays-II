@@ -1,4 +1,4 @@
-package intersectionArray;
+package leetcode350;
 
 import java.util.Arrays;
 

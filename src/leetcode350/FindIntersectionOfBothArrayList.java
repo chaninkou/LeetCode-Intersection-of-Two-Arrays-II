@@ -1,4 +1,4 @@
-package intersectionArray;
+package leetcode350;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class FindIntersectionOfBothArrayList {
-	// My version
+
     public int[] intersect(int[] nums1, int[] nums2) {
         List<Integer> arrayList = new ArrayList<>();
         
